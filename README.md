@@ -13,5 +13,6 @@
 ### 4. Make changes in new branch
 ![image](https://res.cloudinary.com/dk15gxtq6/image/upload/v1742434664/git-new-feature_hfu4t0.png)
 
-### 5. Make pull request
-![image](https://res.cloudinary.com/dk15gxtq6/image/upload/v1742434664/git-new-feature_hfu4t0.png)
+### 5. Make pull request and merged
+![image](https://res.cloudinary.com/dk15gxtq6/image/upload/v1742435159/git-pull-request_edycwb.png)
+![image](https://res.cloudinary.com/dk15gxtq6/image/upload/v1742435455/git-merged_srai2t.png)
